@@ -2,4 +2,4 @@
  
 👀 I’m interested in videogames, math, programming and computer science.
 
-🌱 I’m currently learning Unity, Blender, C# and C++.
+🌱 I’m currently learning Unity, Blender and C#.
